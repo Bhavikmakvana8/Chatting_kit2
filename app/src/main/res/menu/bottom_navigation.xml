@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cnb_unselectedColor="#000">
+
+
+    <item
+        android:id="@+id/Chats"
+        android:title="Chats"
+        android:icon="@drawable/chat"
+        app:cnb_backgroundColor="#2B333C"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"/>
+
+    <item
+        android:id="@+id/Settings"
+        android:title="Settings"
+        android:icon="@drawable/settings"
+        app:cnb_backgroundColor="#2B333C"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"/>
+
+</menu>

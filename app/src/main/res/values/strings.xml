@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chatting Kit</string>
+
+
+    <style name="splash" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="nav_color">
+        <item name="colorPrimary">#000</item>
+
+        <item name="colorControlHighlight">#A39D9D</item>
+
+
+    </style>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
